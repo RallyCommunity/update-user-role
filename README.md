@@ -3,11 +3,11 @@ Update User Role
 
 ## Overview
 
-Select Project:
+Select Project and User:
 
 ![](pic1.png)
 
-Select User:
+After User is selected the Roles combobox apears:
 
 ![](pic2.png)
 
